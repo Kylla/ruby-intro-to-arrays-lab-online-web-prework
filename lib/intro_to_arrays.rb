@@ -1,3 +1,3 @@
-def instantiate_new_array
+def @myinstantiate_new_array
   array.new 
 end
