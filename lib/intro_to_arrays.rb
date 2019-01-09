@@ -12,7 +12,8 @@ def first_element(array)
   # define a variable for arguments
 end
 
-def third_element(ar)
+def third_element(array)
+  return array[3]
   
 end
 
