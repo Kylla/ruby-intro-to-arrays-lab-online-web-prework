@@ -14,11 +14,10 @@ end
 
 def third_element(array)
   return array[2]
-  array[-1]
 end
 
 def last_element(array)
-  
+  array[-1]
   
 end
 
