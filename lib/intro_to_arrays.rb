@@ -8,6 +8,8 @@ end
 
 def first_element(array)
   return array[0]
+  # argument pass into a data method
+  # define a variable for arguments
 end
 
 def third_element
